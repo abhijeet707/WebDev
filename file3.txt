@@ -1,0 +1,1 @@
+Hi! This is file3. Created for git repository.
